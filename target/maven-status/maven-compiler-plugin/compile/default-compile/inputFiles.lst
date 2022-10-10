@@ -1,1 +1,4 @@
 /Users/nextiar/workspaces/GitHub/hdfs-example/src/main/java/net/nextiar/hadoop/FileSystemPrint.java
+/Users/nextiar/workspaces/GitHub/hdfs-example/src/main/java/net/nextiar/hadoop/ListStatus.java
+/Users/nextiar/workspaces/GitHub/hdfs-example/src/main/java/net/nextiar/hadoop/CopyFromLocal.java
+/Users/nextiar/workspaces/GitHub/hdfs-example/src/main/java/net/nextiar/hadoop/DeleteFile.java
