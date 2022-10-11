@@ -17,6 +17,7 @@ public class DeleteFile {
         Path path = new Path(uri);
         if (fs.exists(path)) {
             fs.delete(path, false);
+            
         }
     }
 }
